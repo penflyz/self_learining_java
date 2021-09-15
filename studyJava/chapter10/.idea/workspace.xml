@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1b23a5a-df6c-4806-998e-44e2879fdb2e" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vbapY1EyR8RwkEPPHVCPJ5PRCv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.HomeWork05">
+    <configuration name="ArrayEx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hut.array_.ArrayEx01" />
+      <module name="chapter10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hut.array_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayEx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hut.array_.ArrayEx02" />
+      <module name="chapter10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hut.array_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hut.stringbuffer.Exercise01" />
+      <module name="chapter10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hut.stringbuffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hut.homework.HomeWork04" />
+      <module name="chapter10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hut.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hut.homework.HomeWork05" />
+      <module name="chapter10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hut.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWork05" />
+        <item itemvalue="Application.HomeWork04" />
+        <item itemvalue="Application.ArrayEx02" />
+        <item itemvalue="Application.ArrayEx01" />
+        <item itemvalue="Application.Exercise01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1b23a5a-df6c-4806-998e-44e2879fdb2e" name="默认更改列表" comment="" />
+      <created>1626833425666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626833425666</updated>
+      <workItem from="1626833428079" duration="1775000" />
+      <workItem from="1627195236490" duration="3927000" />
+      <workItem from="1627266645705" duration="3853000" />
+      <workItem from="1627351967093" duration="11560000" />
+      <workItem from="1627435339279" duration="733000" />
+      <workItem from="1627444662701" duration="1735000" />
+      <workItem from="1627957451801" duration="5509000" />
+      <workItem from="1627975591094" duration="5524000" />
+      <workItem from="1628045723902" duration="10114000" />
+      <workItem from="1628131446566" duration="594000" />
+      <workItem from="1628133634148" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626833954884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1626833954884" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1628062539622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1628062539622" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1628066389323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628066389323" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1628066389323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1628066389323" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1628066389322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1628066389322" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1628066389323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1628066389323" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1628066389324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628066389324" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1628066389324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1628066389324" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1628066389324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1628066389324" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1628066389324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1628066389324" />
+    <state x="178" y="22" key="new project wizard" timestamp="1628133716009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1628133716009" />
+    <state x="341" y="178" key="run.anything.popup" timestamp="1627444801748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="178" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1627444801748" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1627985166898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1627985166898" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chapter10$HomeWork04.ic" NAME="HomeWork04 Coverage Results" MODIFIED="1628059937157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hut.homework.*</FILTER>
+    </SUITE>
+  </component>
+</project>

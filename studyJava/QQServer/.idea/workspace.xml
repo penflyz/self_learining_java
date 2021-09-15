@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c298a8c-3136-410f-9254-cf73cc57077b" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xCQoCMHGqHeDnsYmWfCJA44Wvj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/penfly" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.penflyz.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\我的坚果云\java学习\studyJava\QQServer\src\com\penfly" />
+      <recent name="D:\Desktop\我的坚果云\java学习\studyJava\QQServer\src\com\penflyz" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QQServer (1)">
+    <configuration name="Draft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.penfly.utils.Draft" />
+      <module name="QQServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penfly.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QQServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.penfly.server.QQServer" />
+      <module name="QQServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penfly.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QQServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.penfly.qqserver.service.QQServer" />
+      <module name="QQServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penfly.qqserver.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QQServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.penfly.server.QQServer" />
+      <module name="QQServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penfly.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QQServer (1)" />
+        <item itemvalue="Application.Draft" />
+        <item itemvalue="Application.QQServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c298a8c-3136-410f-9254-cf73cc57077b" name="默认更改列表" comment="" />
+      <created>1629856762688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629856762688</updated>
+      <workItem from="1629856766800" duration="7359000" />
+      <workItem from="1629879643819" duration="4257000" />
+      <workItem from="1629964525013" duration="6148000" />
+      <workItem from="1629970765235" duration="13761000" />
+      <workItem from="1630027914226" duration="2344000" />
+      <workItem from="1630034777282" duration="441000" />
+      <workItem from="1630044517203" duration="4976000" />
+      <workItem from="1630292466987" duration="5395000" />
+      <workItem from="1630315336545" duration="15363000" />
+      <workItem from="1630333858380" duration="3377000" />
+      <workItem from="1630370506977" duration="5407000" />
+      <workItem from="1630481694252" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629969859075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1629969859075" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1630371720125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1630371720125" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1629944989401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1629944989401" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1629947095443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1629947095443" />
+    <state width="1478" height="210" key="GridCell.Tab.0.bottom" timestamp="1630376486756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630376486756" />
+    <state width="1478" height="210" key="GridCell.Tab.0.center" timestamp="1630376486756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1630376486756" />
+    <state width="1478" height="210" key="GridCell.Tab.0.left" timestamp="1630376486756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1630376486756" />
+    <state width="1478" height="210" key="GridCell.Tab.0.right" timestamp="1630376486756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1630376486756" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1630337269538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630337269538" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1630337269537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1630337269537" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1630337269537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1630337269537" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1630337269538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1630337269538" />
+    <state x="178" y="24" key="new project wizard" timestamp="1630481793750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="24" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1630481793750" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1630294480131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1630294480131" />
+  </component>
+</project>
